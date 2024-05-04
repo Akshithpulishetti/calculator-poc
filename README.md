@@ -4,7 +4,7 @@ This is a simple proof of concept (POC) calculator project developed using HTML,
 
 ## Demo
 
-You can view a live demo of the calculator [here](https://your-demo-url.com).
+You can view a live demo of the calculator [here]([https://your-demo-url.com](https://polite-dragon-f29c69.netlify.app/)).
 
 
 ![calc-screenshot](https://github.com/Akshithpulishetti/calculator-poc/assets/167102177/952e720c-e813-404a-be46-cad8b90fdfdb)
